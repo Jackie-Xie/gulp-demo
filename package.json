@@ -1,0 +1,11 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jackie-Xie/gulp-demo.git",
+  "author": "xieq <xieq@mchz.com.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
